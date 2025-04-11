@@ -11,4 +11,4 @@
             user="root"
             password="anu@iiit"
     )
-4.  streamlit run app.py
+4.  streamlit run hotel.py
